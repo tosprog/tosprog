@@ -10,7 +10,7 @@ I have experience working with JavaScript, React.js, PHP, Python, and modern ful
 
 **Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
 
-**Backend:** Node.js, Express.js, PHP, Python
+**Backend:** Node.js, Express.js, PHP
 
 **Database:** PostgreSQL, MySQL, Prisma ORM
 
