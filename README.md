@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Oluwatosin 👋
 
-<!--
-**tosprog/tosprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a London-based Software Engineer with 5+ years of professional experience in web application development, backend systems, and API integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience working with JavaScript, React.js, PHP, Python, and modern full-stack technologies. I enjoy building scalable applications, solving technical challenges, and continuously improving my development skills.
+
+### 🛠️ Tech Stack
+
+**Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+
+**Backend:** Node.js, Express.js, PHP, Python
+
+**Database:** PostgreSQL, MySQL, Prisma ORM
+
+**Tools:** Git, GitHub, Postman, VS Code
+
+**Practices:** REST APIs, Agile/Scrum, Software Testing, Debugging
+
+### 🎓 Education
+
+MSc Computer Science — Middlesex University, London
+
+### 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/oluwatosin-oloruntoba-19a50b140/)
